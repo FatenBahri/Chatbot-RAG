@@ -1,2 +1,2 @@
 # Chatbot-RAG
-hello this a rag
+hello this a chatbot-rag
