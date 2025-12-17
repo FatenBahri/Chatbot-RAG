@@ -12,7 +12,7 @@ Ce dépôt contient des ressources et des notebooks pour construire un assistant
 - `notebook/` : notebooks Jupyter (ex. `bot.ipynb`, `prototypage.ipynb`) pour prototyper et exécuter le pipeline.
 - `pgvector/` : sources et utilitaires liés à `pgvector` (optionnel si vous utilisez PostgreSQL + extension pgvector).
 - `src/` : code source (scripts et helpers).
-- `requirements.txt` : dépendances Python du projet.
+- `requirements.txt` : Dépendances Python du projet. 
 
 **Prérequis**
 
